@@ -1,0 +1,25 @@
+{
+  "name": "gg",
+  "version": "0.0.0",
+  "description": "Gui tool for grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rhiokim/grunt-gui"
+  },
+  "keywords": [
+    "grunt",
+    "node.js",
+    "gui"
+  ],
+  "author": "rhio.kim",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "cbaeca817fba8b399ea7075a4f8cfd1f4a36d9bf",
+  "dependencies": {
+    "terminal-menu": "0.0.0"
+  }
+}
